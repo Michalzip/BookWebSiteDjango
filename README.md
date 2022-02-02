@@ -19,5 +19,13 @@
   
   
  </ul>
+  
+   
+</h5>
 
-</h1>
+<h6 align="center">
+  <i>if you would start project first of all write   python manage.py runserver in your terminal then copy "http://127.0.0.1:8000/" to your browser </br>
+  when you decide for example buy any book, you will  must do login to system
+  </i>   
+
+</h5>
