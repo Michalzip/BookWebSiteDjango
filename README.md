@@ -1,4 +1,4 @@
-<h1 align="center">BookWebSiteDjano</h1>
+<h1 align="center">BookWebSiteDjango</h1>
 
 <p align="center">
 
