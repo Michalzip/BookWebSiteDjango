@@ -6,3 +6,18 @@
 <p align="center">
   <img width="2400" src="https://github.com/Programmingisfun11/BookWebSiteDjano/blob/main/PageImages/BooksPage.png" alt="Material Bread logo">
 </p>
+<h3 align="center">Website Functionality</h3>
+
+<h5 align="left">
+
+<ul>
+  <li> Login User</li>
+   <li> Register User</li>
+   <li>Remind  Password</li>
+  <li>Add informations from Admin level to website  </li>
+  
+  
+  
+ </ul>
+
+</h1>
