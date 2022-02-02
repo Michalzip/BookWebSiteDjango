@@ -23,6 +23,7 @@
    <li> Register User</li>
    <li>Remind  Password</li>
   <li>Add informations from Admin level to website  </li>
+  <li>Pagination Page</li>
   
   
   
